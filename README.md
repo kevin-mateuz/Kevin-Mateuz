@@ -1,9 +1,9 @@
 ### Olá devs 👋
 
 
-> 💜 &nbsp; Passionate about the world of technology, especially programming
+> 💜 &nbsp; Passionate about the world of technology, especially programming.
 
-👨‍💻 &nbsp; This is where I share my knowledge and show it to the world and code format!
+👨‍💻  Aqui  compartilho  meu conhecimento e mostro o mundo em  formato de código .
 
 🎓 &nbsp;  Studying JavaScript on <a href=studying JavaScript> CodeClube</a>.
 
