@@ -7,6 +7,8 @@
 
 🎓 &nbsp;  Studying JavaScript on <a href=studying JavaScript> CodeClube</a>.
 
+🎓 &nbsp;  Studying Analise e Desenvolvimento de Sistemas on <a href=studying JavaScript> Wyden</a>.
+
 🟢 &nbsp; Currently improving on javascript.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
